@@ -18,6 +18,8 @@
 
 ### 🚀 Groq ( LLM Model Provider )
 
+### 🎤 OpenAi STT Model ( Sesi Metne Çevirmek İçin )
+
 ### 🤖 Llama-4-Scout-17B-16E-Instruct ( LLM )
 
 ### 🔍 SerperApi ( Bilgi Çekmek Aracı )
